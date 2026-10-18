@@ -1,0 +1,9 @@
+fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,pH,sulphates,alcohol,quality,actual_type,predicted_type,red_wine_probability,correct
+7.4,0.7,0.0,1.9,0.076,11.0,34.0,0.9978,3.51,0.56,9.4,5,Red wine,Red wine,0.9999492484410198,True
+7.4,0.66,0.0,1.8,0.075,13.0,40.0,0.9978,3.51,0.56,9.4,5,Red wine,Red wine,0.9999215661782052,True
+7.3,0.65,0.0,1.2,0.065,15.0,21.0,0.9946,3.39,0.47,10.0,7,Red wine,Red wine,0.9992775313899124,True
+5.6,0.615,0.0,1.6,0.089,16.0,59.0,0.9943,3.58,0.52,9.9,5,Red wine,Red wine,0.9973125319741654,True
+7.6,0.39,0.31,2.3,0.082,23.0,71.0,0.9982,3.52,0.65,9.7,5,Red wine,Red wine,0.9986760587952418,True
+7.8,0.645,0.0,2.0,0.082,8.0,16.0,0.9964,3.38,0.59,9.8,6,Red wine,Red wine,0.999929796435512,True
+7.7,0.62,0.04,3.8,0.084,25.0,45.0,0.9978,3.34,0.53,9.5,5,Red wine,Red wine,0.9995849309243978,True
+7.5,0.63,0.12,5.1,0.111,50.0,110.0,0.9983,3.26,0.77,9.4,5,Red wine,Red wine,0.9944870308677932,True
