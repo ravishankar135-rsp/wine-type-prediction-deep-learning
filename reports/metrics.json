@@ -1,0 +1,21 @@
+{
+  "rows_used": 6497,
+  "train_rows": 5197,
+  "test_rows": 1300,
+  "test_accuracy": 0.9976923076923077,
+  "random_state": 42,
+  "target_mapping": {
+    "0": "White wine",
+    "1": "Red wine"
+  },
+  "confusion_matrix": [
+    [
+      980,
+      0
+    ],
+    [
+      3,
+      317
+    ]
+  ]
+}
